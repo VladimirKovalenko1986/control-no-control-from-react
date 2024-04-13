@@ -1,0 +1,37 @@
+.form {
+  border: 3px solid black;
+  padding: 20px;
+  width: 400px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  background-color: rgb(221, 215, 215);
+}
+
+.conteiner {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.select {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button {
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+}
